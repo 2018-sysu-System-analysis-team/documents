@@ -56,7 +56,7 @@ X2. 建模练习
   + [个人建模练习](modeling_exercises/addition.md)
 
 X3. Final Report
-  - [15331426 - ZMX](final_reports/15331426_ZMX.md)
+  - [18214758 - 李学思](final_reports/15331426_ZMX.md)
   - [15331414 - ZZY](final_reports/15331414_ZZY.md)
   - [15331424 - ZZ](https://painterdrown.github.io/saad/final-report)
   - [15331427 - ZRL](final_reports/15331427_ZRL.md)
