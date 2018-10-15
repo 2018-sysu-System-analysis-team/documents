@@ -15,7 +15,7 @@
 
 4. [Vision（项目愿景）](about.md#vision)
 
-5. [Product Backlogs（产品特性）](about.md#backlogs)
+5. [Product Backlogs（产品特性）](product-backlog.md)
 
 6. [Requirement Specification（需求规格说明)](product_requirements.md)
   + 6.1. [Usecase Diagram（用例图）](assets/images/models/use_cases.png)
