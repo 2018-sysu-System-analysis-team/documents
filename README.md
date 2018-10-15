@@ -11,7 +11,7 @@
 
 2. [Team Profile（团队组建）](team_profile.md)
 
-3. [Product Investigations（项目前期调研）](product_investigations.md)
+3. [Product Investigations（项目前期调研）](investigations.md)
 
 4. [Vision（项目愿景）](about.md#vision)
 
