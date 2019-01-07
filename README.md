@@ -5,7 +5,7 @@
 
 ---
 
-1. [About（项目规划）](about.md)
+1. [About（项目规划）](项目介绍.md)
 
 2. [Team Profile（团队组建）](team_profile.md)
 
