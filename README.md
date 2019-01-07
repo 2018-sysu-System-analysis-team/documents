@@ -16,12 +16,12 @@
 5. [Product Backlogs（产品特性）](product-backlog.md)
 
 6. [Requirement Specification（需求规格说明)](product_requirements.md)
-  + 6.1. [Usecase Diagram（用例图）](assets/images/models/use_cases.png)
-  + 6.2. [Use Cases（用例+活动图）](assets/images/models/use_cases.png)
-  + 6.3. [Domian Model（领域模型）](assets/images/models/domain_model.png)
-  + 6.4. [State Model（状态模型）](assets/images/models/state_model.png)
-  + 6.5. [System Sequence Diagram（功能模型）](system_sequence_diagram.md)
-  + 6.6. [Supplementary Requirements（补充需求）](supplementary_requirements.md)
+  + 6.1. [Usecase Diagram（用例图）](6.1 Usecase Diagram.png)
+  + 6.2. [Use Cases（用例+活动图）](6.2Use Cases 用例+活动图.md)
+  + 6.3. [Domian Model（领域模型）](06-03-domain-model.md)
+  + 6.4. [State Model（状态模型）](06-04-state-model.md)
+  + 6.5. [System Sequence Diagram（功能模型）](06-05-system-sequence-diagram.md)
+  + 6.6. [Supplementary Requirements（补充需求）](新的数据接口.docx)
 
 7. Design（设计）
   + 7.1. [UI Design](assets/ui)
