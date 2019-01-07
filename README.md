@@ -15,7 +15,7 @@
 
 5. [Product Backlogs（产品特性）](product-backlog.md)
 
-6. [Requirement Specification（需求规格说明)](product-backlog.md)
+6. [Requirement Specification（需求规格说明)](product_requirement.md)
   + 6.1. [Usecase Diagram（用例图）](6.1_Usercase_Diagram.png)
   + 6.2. [Use Cases（用例+活动图）](6.2UseCases.md)
   + 6.3. [Domian Model（领域模型）](06-03-domain-model.md)
