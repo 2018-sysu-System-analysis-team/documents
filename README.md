@@ -24,7 +24,7 @@
   + 6.6. [Supplementary Requirements（补充需求）](新的数据接口.docx)
 
 7. Design（设计）
-  + 7.1. [UI Design](assets/ui)
+  + 7.1. [UI Design](ui.md)
   + 7.2. Database Design
   + 7.3. [API 设计](API.md)
   + 7.4. [Software Architecture Document](tech_reports/architecture.md)
