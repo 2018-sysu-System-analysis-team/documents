@@ -1,0 +1,32 @@
+<!--pages/pay/pay.wxml-->
+
+
+
+
+<view class="table">
+  <view class="tr bg-w">
+    <view class="th">序号</view>
+    <view class="th">菜名</view>
+    <view class="th">数量/份</view>
+    <view class="th ">价格/元</view>
+  </view>
+  <block wx:for="{{orderItems}}" wx:key="{{itemId}}">
+    <view class="tr bg-g" wx:if="{{index % 2 == 0}}">
+      <view class="td">{{index+1}}</view>    
+      <view class="td">{{item.title}}</view>
+      <view class="td">{{item.num}}</view>
+      <view class="td">{{item.price}}</view>
+    </view>
+    <view class="tr" wx:else>
+      <view class="td">{{index+1}}</view>        
+      <view class="td">{{item.title}}</view>
+      <view class="td">{{item.num}}</view>
+      <view class="td">{{item.price}}</view>
+    </view>
+  </block>
+</view>
+<view>   
+<view class="tr bg-w">总价：{{totalPrice}}</view> 
+</view>
+
+<button class='buttype' bindtap='to_pay'>支付</button>

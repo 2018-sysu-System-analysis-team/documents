@@ -1,0 +1,8 @@
+<!--pages/pay/pay.wxml-->
+
+<view class='pay'>
+<icon type='waiting' size='100' color='#1dd'></icon>
+</view>
+<view class='text' >
+<text class="wait">等待上菜</text>
+</view>
