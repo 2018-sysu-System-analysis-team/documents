@@ -32,7 +32,7 @@
 
 
 X1. [Meeting Recordings（会议记录）](meeting_recordings.md)
-  + [Meeting 0 - Inception](meeting_recordings.md#metting-0---inception)
+  + [Meeting 0 - Inception](meeting0.md)
   + [Meeting 1 - Iteration 1](meeting_recordings.md#metting-1---iteration-1)
   + [Meeting 2 - Iteration 2](meeting_recordings.md#metting-2---iteration-2)
   + [Meeting 3 - Iteration 3](meeting_recordings.md#metting-3---iteration-3)
