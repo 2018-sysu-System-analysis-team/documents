@@ -11,7 +11,7 @@
 
 3. [Product Investigations（项目前期调研）](investigation.md)
 
-4. [Vision（项目愿景）](about.md#vision)
+4. [Vision（项目愿景）](Vision.md)
 
 5. [Product Backlogs（产品特性）](product-backlog.md)
 
