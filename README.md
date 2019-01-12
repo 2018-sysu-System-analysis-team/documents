@@ -27,8 +27,8 @@
   + 7.1. [UI Design](ui.md)
   + 7.2. Database Design
   + 7.3. [API 设计](API.md)
-  + 7.4. [Software Architecture Document](tech_reports/architecture.md)
-  + 7.5. [用例、ECB 的顺序图和类图](ECB.md)
+  + 7.4. [Software Architecture Document](07_04 Software Architecture Document.md)
+  + 7.5. [用例、ECB 的顺序图和类图]( -/07_04 Software Architecture Document.md)
 
 
 X1. Meeting Recordings（会议记录）
