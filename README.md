@@ -29,7 +29,8 @@
   + 7.3. [API 设计](API.md)
   + 7.4. [Software Architecture Document](07_04%20Software%20Architecture%20Document.md)
   + 7.5. [用例、ECB 的顺序图和类图](07_05%20用例图顺序图和类图.md)
-
+  
+8. [模型演示](data/demo.mp4)
 
 X1. Meeting Recordings（会议记录）
   + [Meeting 0 - Inception](meeting0.md)
