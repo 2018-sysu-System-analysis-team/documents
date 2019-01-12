@@ -35,6 +35,6 @@ X1. [Meeting Recordings（会议记录）](meeting_recordings.md)
   + [Meeting 0 - Inception](meeting0.md)
   + [Meeting 1 - Iteration 1](meeting1.md)
   + [Meeting 2 - Iteration 2](meeting2.md)
-  + [Meeting 3 - Iteration 3](meeting_recordings.md#metting-3---iteration-3)
+  + [Meeting 3 - Iteration 3](meeting3.md)
   + [Meeting 4 - Iteration 4](meeting_recordings.md#metting-4---iteration-4)
 
