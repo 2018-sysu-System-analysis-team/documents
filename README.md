@@ -27,7 +27,7 @@
   + 7.1. [UI Design](ui.md)
   + 7.2. Database Design
   + 7.3. [API 设计](API.md)
-  + 7.4. [Software Architecture Document](07_04_Software_Architecture_Document.md)
+  + 7.4. [Software Architecture Document](07_04%20Software%20Architecture%20Document.md)
   + 7.5. [用例、ECB 的顺序图和类图]( )
 
 
