@@ -31,7 +31,7 @@
   + 7.5. [用例、ECB 的顺序图和类图](ECB.md)
 
 
-X1. [Meeting Recordings（会议记录）](meeting_recordings.md)
+X1. Meeting Recordings（会议记录）
   + [Meeting 0 - Inception](meeting0.md)
   + [Meeting 1 - Iteration 1](meeting1.md)
   + [Meeting 2 - Iteration 2](meeting2.md)
